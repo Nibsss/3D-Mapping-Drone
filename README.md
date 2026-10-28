@@ -1,6 +1,6 @@
 # 3D Mapping Drone di CoppeliaSim Edu
 
-Tugas [nama mata kuliah] - [Nama] ([NRP])
+ETS [Sistem Robot Otonom] - [Ahmad Nibras Qolby] ([5022231026])
 
 ## Deskripsi
 Drone Quadcopter terbang menyapu arena (pola lawnmower) dengan vision sensor depth
