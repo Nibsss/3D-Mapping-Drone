@@ -16,8 +16,8 @@ lalu diproses menjadi voxel dan diwarnai berdasarkan ketinggian.
 5. Color mapping ketinggian (post process): `3d_map.png`
 
 ## Video
-- Proses mapping: [link YouTube/GDrive]
-- Hasil 3D mapping: [link YouTube/GDrive]
+- Proses mapping: [https://drive.google.com/file/d/1uB12R227XkSOehzoPdRZZXptkA_bXATi/view?usp=sharing]
+- Hasil 3D mapping: [https://drive.google.com/file/d/1_KFlXYimy-zJ5kr19J6E7Xq0QAm0-BzB/view?usp=sharing]
 
 ## File
 - `drone_3d_mapping.py` : script utama
